@@ -8,6 +8,8 @@
         "@pulumi/awsx": "latest",
         "@pulumi/cloud": "^0.18.0",
         "@pulumi/cloud-aws": "^0.18.0",
-        "@pulumi/pulumi": "latest"
+        "@pulumi/pulumi": "latest",
+        "inversify": "^5.0.1",
+        "reflect-metadata": "^0.1.13"
     }
 }
